@@ -1,0 +1,16 @@
+PODS:
+  - STPhotoPicker (0.1.0)
+
+DEPENDENCIES:
+  - STPhotoPicker (from `../`)
+
+EXTERNAL SOURCES:
+  STPhotoPicker:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  STPhotoPicker: c218e19d47a27694e2fa0d7f9a35c3361d8b2c87
+
+PODFILE CHECKSUM: 133e2cde403319aaf9b1065332398cda03bd0369
+
+COCOAPODS: 1.5.3
